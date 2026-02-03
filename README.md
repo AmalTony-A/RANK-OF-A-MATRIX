@@ -4,7 +4,8 @@ To write a python program to find the rank of a matrix
 ## Equipment’s required:
 1. 	Hardware – PCs
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
-Step 1:
+
+Step 1
 Import the numpy module to use the built-in functions for calculation
 
 Step 2:
