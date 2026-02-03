@@ -32,7 +32,10 @@ print(result)
 ```
 
 ## Output:
+
 ![experiment 2](<Screenshot 2026-02-03 112627.png>)
+
 ## Result:
+
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
